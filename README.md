@@ -5,7 +5,7 @@ Este repositorio contiene una versión combinada y limpia de dos proyectos:
 - **Mobile-Tech**
 
  Objetivo:
-Mantener solo el código relevante, sin historial ni datos de autores anteriores.
+Mantener solo el código relevante, sin historial ni datos de autores anteriores debido que en estos han participado otras personas.
 
  Estructura:
 
