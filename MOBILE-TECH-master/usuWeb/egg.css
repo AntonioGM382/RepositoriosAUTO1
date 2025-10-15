@@ -1,0 +1,13 @@
+﻿body {
+    text-align: center;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-repeat: no-repeat;
+    min-height: 97.2vh;
+    font-family: 'Roboto',sans-serif;
+    color: white;
+}
+
+canvas {
+    border: 2px solid rgb(151, 149, 149);
+    color: black;
+}
